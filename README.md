@@ -1,2 +1,1 @@
-# bach
-materials to baccelor thesis
+# bacc materials to baccelor thesis
